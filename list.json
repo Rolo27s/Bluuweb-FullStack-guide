@@ -1,0 +1,72 @@
+[
+  {
+    "numero_de_video": 1,
+    "titulo": "Curso JavaScript #01: Aprende los fundamentos de programación",
+    "duracion": "03:37:47",
+    "link": "https://youtu.be/sYqn4lhcMZE",
+    "status": "Viewing-00:13:23"
+  },
+  {
+    "numero_de_video": 2,
+    "titulo": "Los secretos del éxito: Aprende a programar con facilidad y rapidez",
+    "duracion": "00:04:49",
+    "link": "https://youtu.be/hrmkse5xwgM",
+    "status": "Viewed-1"
+  },
+  {
+    "numero_de_video": 3,
+    "titulo": "Curso JavaScript #02: Conceptos claves que debes dominar",
+    "duracion": "09:21:25",
+    "link": "https://youtu.be/w_bM1l1UGnY",
+    "status": "Not-viewed"
+  },
+  {
+    "numero_de_video": 4,
+    "titulo": "Curso JavaScript #03: Conceptos avanzados",
+    "duracion": "06:49:08",
+    "link": "https://youtu.be/EYmNfsp1aPE",
+    "status": "Not-viewed"
+  },
+  {
+    "numero_de_video": 5,
+    "titulo": "Fundamentos de Vue 3 con Composition API: Aprende a crear aplicaciones web modernas y escalables",
+    "duracion": "02:05:28",
+    "link": "https://youtu.be/PL-aTHv2L3E",
+    "status": "Not-viewed"
+  },
+  {
+    "numero_de_video": 6,
+    "titulo": "Domina Dark y Light Mode con Tailwind CSS",
+    "duracion": "00:39:05",
+    "link": "https://youtu.be/6OQrXWbhGIA",
+    "status": "Not-viewed"
+  },
+ {
+    "numero_de_video": 7,
+    "titulo": "Taller: Vuetify 3 (vite) + Vue 3 + Firebase 9 + DB en tiempo real (creando un Chat)",
+    "duracion": "01:46:05",
+    "link": "https://youtu.be/xNOikQnAnVE",
+    "status": "Not-viewed"
+  },
+ {
+    "numero_de_video": 8,
+    "titulo": "Taller: Vue 3 + Quasar + Vite + Firebase 9 (Velocidad y Diseño)",
+    "duracion": "03:16:47",
+    "link": "https://youtu.be/n4sdgDTrqEU",
+    "status": "Not-viewed"
+  },
+  {
+    "numero_de_video": 9,
+    "titulo": "Curso de Node.js + Express + MongoDB (parte #01)",
+    "duracion": "04:45:49",
+    "link": "https://youtu.be/xkHyM-K3Cd8",
+    "status": "Not-viewed"
+  },
+  {
+    "numero_de_video": 10,
+    "titulo": "Curso de Node.js + Express + MongoDB (parte #02) - Auth + Session + Passport + Rutas protegidas",
+    "duracion": "03:54:43",
+    "link": "https://youtu.be/k6gaP1AK4nQ",
+    "status": "Not-viewed"
+  }
+]
