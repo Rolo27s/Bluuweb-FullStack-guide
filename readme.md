@@ -1,4 +1,5 @@
 ## Repositorio destinado a facilitar el orden a la hora de ver listas de videos
+### El archivo index.html debe levantarse con un localhost
 ### El archivo JSON se compone de estos elementos
 * "numero_de_video"
 * "titulo"
